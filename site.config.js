@@ -17,9 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'https://twitter.com/Jackywine1998',
-  Behance: 'https://www.behance.net/chenjindong',
-  Instagram: 'https://www.instagram.com/jackycjd/',
+  twitter: 'Jackywine1998',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
