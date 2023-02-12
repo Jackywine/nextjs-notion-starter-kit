@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Jackywine’s Blog',
   domain: 'https://illustrious-heron-c0c.notion.site/Jackywine-s-Blog-cee56472b76c41d8bc75cd1b6446ffea',
-  author: 'Jackywine',
+  author: 'Jackywine1998',
 
   // open graph metadata (optional)
   description: 'Example site description',
